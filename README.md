@@ -1,15 +1,20 @@
+# Description:
+Movie Recommendation System built with Streamlit and TMDB API. It suggests top 5 similar movies based on a selected title using machine learning similarity scores. Features include movie posters, titles, and an interactive UI powered by Python, Pandas, Pickle, and Requests.
+
 # 🎬 Movie Recommendation System
 
-This is a Movie Recommendation Web App built using **Streamlit**.  
-It suggests movies similar to the one selected by the user and also shows their posters using the **TMDB API**.
+A **Movie Recommendation System** built with **Streamlit** and **TMDB API**.  
+It suggests the **Top 5 similar movies** based on the selected title using machine learning similarity scores.  
+The app displays **movie posters, names, and an interactive UI** powered by Python, Pandas, Pickle, and Requests.
 
 ---
 
-## ✨ Features
-- 🔎 Search and select movies from a dropdown list  
-- 🎥 Get **Top 5 Recommended Movies** instantly  
-- 🖼️ Displays movie posters fetched from TMDB API  
-- ⚡ Interactive and easy-to-use web app  
+## 🚀 Features
+- 🔍 Search and select any movie title
+- 🎥 Get top 5 recommended movies instantly
+- 🖼️ Fetches high-quality posters using **TMDB API**
+- ⚡ Interactive and simple UI with **Streamlit**
+- 📊 Uses **cosine similarity** on precomputed vectors
 
 ---
 
@@ -22,8 +27,6 @@ It suggests movies similar to the one selected by the user and also shows their 
 
 ---
 
-## DataSet
-https://drive.google.com/drive/folders/1ahFmp6TmK8hpKz-ZhHsZbk-Qe7SbkK6U?usp=drive_link
 
 ## 🚀 Installation & Usage
 
